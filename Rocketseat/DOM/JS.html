@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -9,6 +10,7 @@
         <input type="text" name="nome" id="nome" />
         <input type="text" name="nome2" id="nomeTwo" />
         <button class="botao">Adicionar</button>
+        <div class="box"></div>
     </div>
     <script>
         function mostraAlerta() {
@@ -31,8 +33,7 @@
 
         var inputElement5 = document.querySelector('button.botao')
         inputElement5.onclick = function () {
-            mostraAlerta(); keyof
-
+            mostraAlerta();
             var text = inputElement4.value;
             alert(text);
         }
@@ -40,7 +41,7 @@
         var linkElement = document.createElement('a');
 
         linkElement.setAttribute('href', 'https://www.google.com/');
-        linkElement.setAttribute('title','É o famoso google')
+        linkElement.setAttribute('title', 'É o famoso google')
 
         var textElement = document.createTextNode('Acessar google');
         linkElement.appendChild(textElement);
@@ -49,6 +50,13 @@
         containerElement.appendChild(linkElement);
 
         containerElement.removeChild(inputElement2);
+
+
+        var boxElement = document.querySelector('.box');
+        boxElement.style.width = '100px';
+        boxElement.style.height = '100px';
+        boxElement.style.backgroundColor = '#f00';
+
     </script>
 </body>
 </html>
