@@ -1,0 +1,77 @@
+﻿<html>
+<head>
+    <title>JS</title>
+</head>
+<body>
+    <script>
+        var endereco = {
+            rua: "Rua dos pinheiros",
+            numero: 1293,
+            bairro: "Centro",
+            cidade: "São Paulo",
+            uf: "SP"
+        };
+
+        function exibir(x) {
+            console.log("O usuário mora em " + x.cidade + " / " + x.uf + ", no bairro " + x.bairro +
+                ", na rua \"" + x.rua + "\" com "+x.numero+".")
+        }
+
+        exibir(endereco);
+
+        function pares(x, y) {
+            for (var x; x <= y; x++) {
+                if (x % 2 == 0) {
+                    console.log(x);
+                }
+            }
+        }
+        pares(32, 321)
+
+        function temHabilidade(skills) {
+            return skills.indexOf("Javascript");
+        }
+        var skills = ["C#", "Javascript", "ReactJS", "React Native"];
+        console.log(temHabilidade(skills)); // true ou false
+
+
+        function experiencia(anos) {
+            // código aqui
+            if (0 <= anos && anos <= 1) {
+                console.log("Iniciante");
+            }
+            else if (1 <= anos && anos <= 3) {
+                console.log("Intermediario");
+            }
+            else if (3 <= anos && anos <= 6) {
+                console.log("Avancado");
+            }
+            else {
+                console.log("Jedi Master");
+            }
+        }
+        var anosEstudo = 2;
+        experiencia(anosEstudo);
+        // De 0-1 ano: Iniciante
+        // De 1-3 anos: Intermediário
+        // De 3-6 anos: Avançado
+        // De 7 acima: Jedi Master
+
+        var usuarios = [
+            {
+                nome: "Diego",
+                habilidades: ["Javascript", "ReactJS", "Redux"]
+            },
+            {
+                nome: "Gabriel",
+                habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
+            }
+        ];
+
+        for (let value of usuarios) {
+            console.log("O " + value.nome + " possui as habilidades: " + value.habilidades.join());
+        }
+
+    </script>
+</body>
+</html>

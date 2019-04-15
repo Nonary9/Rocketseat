@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JS</title>
+</head>
+<body>
+    <div id="app">
+        <input type="text" name="nome" id="nome" />
+        <input type="text" name="nome2" id="nomeTwo" />
+        <button class="botao">Adicionar</button>
+    </div>
+    <script>
+        function mostraAlerta() {
+            alert("O botao foi clicado");
+        }
+
+        //getElementsByTagName
+        var inputElement = document.getElementsByTagName('input');      //Armazena como collection
+        var inputElement2 = document.getElementsByTagName('input')[0];   //Armazena apenas o primeiro elemento 'input'
+        console.log('inputElement:' + inputElement);
+        console.log('inputElement2:' + inputElement2);
+
+        //getElementsByTagName
+        var inputElement3 = document.getElementsByClassName('nome')
+
+        //getElementsById
+
+        //querySelector
+        var inputElement4 = document.querySelector('div#app input[name=nome2]');
+
+        var inputElement5 = document.querySelector('button.botao')
+        inputElement5.onclick = function () {
+            mostraAlerta();
+
+            var text = inputElement4.value;
+            alert(text);
+        }
+
+        var linkElement = document.createElement('a');
+
+        linkElement.setAttribute('href', 'https://www.google.com/');
+
+        var textElement = document.createTextNode('Acessar google');
+        linkElement.appendChild(textElement);
+
+        var containerElement = document.querySelector('#app');
+        containerElement.appendChild(linkElement);
+    </script>
+</body>
+</html>
