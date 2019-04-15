@@ -40,12 +40,15 @@
         var linkElement = document.createElement('a');
 
         linkElement.setAttribute('href', 'https://www.google.com/');
+        linkElement.setAttribute('title','É o famoso google')
 
         var textElement = document.createTextNode('Acessar google');
         linkElement.appendChild(textElement);
 
         var containerElement = document.querySelector('#app');
         containerElement.appendChild(linkElement);
+
+        containerElement.removeChild(inputElement2);
     </script>
 </body>
 </html>
