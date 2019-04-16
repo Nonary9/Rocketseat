@@ -8,6 +8,14 @@
     <div id="app">
         <input id="text1" />
         <button id="button1">RedSquare</button>
+        <br />
+        <input type="text" name="nome">
+        <button onClick="adicionar()">Adicionar</button>
+    </div>
+    <div id="lista">
+        <ul id="listaUl">
+
+        </ul>
     </div>
     <script>
 
@@ -35,14 +43,15 @@
                 color += letters[Math.floor(Math.random() * 16)];
             }
             return color;
-        }
-        var nomes = ["Diego", "Gabriel", "Lucas"];
+        }
 
+        var nomes = ["Diego", "Gabriel", "Lucas"];
+        var ulElement = document.getElementById('listaUl');
 
         for (let value of nomes) {
             var listElement = document.createElement('li');
             listElement.textContent = value;
-            containerElement.appendChild(listElement);
+            ulElement.appendChild(listElement);
         }
     </script>
 </body>
