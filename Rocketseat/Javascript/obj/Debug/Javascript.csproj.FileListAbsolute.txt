@@ -1,0 +1,68 @@
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\csc.exe
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\csc.exe.config
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\csc.rsp
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\csi.exe
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\csi.rsp
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\System.AppContext.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\System.IO.FileSystem.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\vbc.exe
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\vbc.exe.config
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\vbc.rsp
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\VBCSCompiler.exe
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\Javascript.dll.config
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\Javascript.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\Javascript.pdb
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\obj\Debug\Javascript.csprojResolveAssemblyReference.cache
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\obj\Debug\Javascript.dll
+c:\users\kevin.onomura\documents\visual studio 2017\Projects\Javascript\Javascript\obj\Debug\Javascript.pdb
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\csc.exe
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\csc.exe.config
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\csc.rsp
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\csi.exe
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\csi.rsp
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\System.AppContext.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\vbc.exe
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\vbc.exe.config
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\vbc.rsp
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\VBCSCompiler.exe
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\Javascript.dll.config
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\Javascript.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\Javascript.pdb
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\obj\Debug\Javascript.csprojResolveAssemblyReference.cache
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\obj\Debug\Javascript.dll
+C:\Users\kevin.onomura\Desktop\Projeto\Rocketseat\Javascript\obj\Debug\Javascript.pdb
